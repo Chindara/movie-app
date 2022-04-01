@@ -23,3 +23,7 @@ npm install
 ```js
 REACT_APP_API_URL=<your API Url>
 ```
+5. Start the React app
+```js
+npm start
+```
