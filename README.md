@@ -21,5 +21,5 @@ npm install
 3. Run the .NET Core project
 4. Enter the API url in `.env` file
 ```js
-REACT_APP_API_URL=https://localhost:44308/api/
+REACT_APP_API_URL=<your API Url>
 ```
